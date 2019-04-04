@@ -1,6 +1,6 @@
 import React from 'react';
 
-import Aux from '../../hoc/Aux';
+import Aux from '../../hoc/Aux1';
 import Toolbar from '../Navigation/Toolbar/Toolbar';
 import classes from './Layout.css';
 
